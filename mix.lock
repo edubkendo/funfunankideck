@@ -1,0 +1,4 @@
+%{"dotenv": {:hex, :dotenv, "2.0.0", "87e77a94e54c20eca49989876395e26878b109f016f9fd9c42b65bb9c59bca3f", [:mix], []},
+  "extwitter": {:hex, :extwitter, "0.7.1", "35c18c3947e7fd15dce977b8b366846b411d8ff4e53c95201b6d22f8af12cdef", [:mix], [{:poison, "~> 1.5", [hex: :poison, optional: false]}]},
+  "oauth": {:git, "git://github.com/tim/erlang-oauth.git", "fca8163e8f7af867015e2413c4b03a4f8f4df0c9", []},
+  "poison": {:hex, :poison, "1.5.2", "560bdfb7449e3ddd23a096929fb9fc2122f709bcc758b2d5d5a5c7d0ea848910", [:mix], []}}
