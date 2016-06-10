@@ -30,6 +30,7 @@ defmodule FunFunAnkiDeck.Mixfile do
     [
       {:oauth, github: "tim/erlang-oauth"},
       {:extwitter, "~> 0.7.1"},
+      {:csv, "~> 1.4.0"},
       {:dotenv, "~> 2.0.0"}
     ]
   end
